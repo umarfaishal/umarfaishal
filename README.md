@@ -1,4 +1,6 @@
-![banner](img/banner%20linkedin%201.png)
+<!-- ![banner](img/banner%20linkedin%201.png) -->
+![studio ghibli](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFteDZiMzRqZmM1YjRubm9xM21xdWZlbGx4dnR6c3JocGw5Y3gzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TZgJXiwbdbLG/giphy.gif)
+
 ## Hi I'm Faishal Umar Al-Amin 🙌
 
 ### Nice to meet you.. 😊
@@ -6,7 +8,6 @@
 - 🧑‍💻 I’m currently learning Software Quality Assurance Automation 
 - 👯 I,m open to work in the field of QA tester automation or manual 
 
-![studio ghibli](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFteDZiMzRqZmM1YjRubm9xM21xdWZlbGx4dnR6c3JocGw5Y3gzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TZgJXiwbdbLG/giphy.gif)
 
 <!--
 **umarfaishal/umarfaishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

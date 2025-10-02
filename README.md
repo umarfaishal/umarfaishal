@@ -68,6 +68,15 @@
 
 ---
 
+### 🎮 Let's Play with me 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umarfaishal/umarfaishal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umarfaishal/umarfaishal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/umarfaishal/umarfaishal/output/pacman-contribution-graph.svg">
+</picture>
+
+--- 
+
 ### ✨ Quote
 > *"Quality is never an accident; it is always the result of intelligent effort."*
 

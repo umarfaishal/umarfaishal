@@ -1,6 +1,6 @@
 <!-- Banner (gantikan link dengan gambar/banner kamu sendiri) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250?text=Welcome+to+My+QA+Profile" alt="Banner QA">
+  <img src="img/banner linkedin 1.png" alt="Banner QA">
 </p>
 
 <!-- GIF Profil Pribadi -->
@@ -16,7 +16,7 @@
 ### 🧪 About Me
 - 🔍 Fokus di bidang **Quality Assurance**
 - ✅ Berpengalaman dalam **Manual & Automation Testing**
-- 🛠️ Familiar dengan **Selenium, Postman, JMeter, Robot Framework, Cucumber**
+- 🛠️ Familiar dengan **Selenium, Postman, JMeter, Cypress, Cucumber**
 - 🔄 Paham konsep **SDLC, STLC, CI/CD, API Testing**
 - 📚 Sedang memperdalam **Java, Python, dan JavaScript** untuk automation
 - 💡 Passion dalam memastikan kualitas produk digital yang optimal
@@ -48,7 +48,7 @@
 - Qase  
 - Trello (QA workflow)
 
----
+<!-- ---
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarfaishal&theme=tokyonight" alt="streak">
-</p>
+</p> -->
 
 ---
 

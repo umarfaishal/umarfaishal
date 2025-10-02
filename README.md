@@ -1,7 +1,7 @@
 <!-- Banner (gantikan link dengan gambar/banner kamu sendiri) -->
-<p align="center">
+<!-- <p align="center">
   <img src="img/banner linkedin 1.png" alt="Banner QA">
-</p>
+</p> -->
 
 <!-- GIF Profil Pribadi -->
 <p align="center">
